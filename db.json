@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "bike",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 150000,
+      "comment": "Honda",
+      "date": "2023-01-31T19:00:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "Car",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 1600000,
+      "comment": "toyota",
+      "date": "2023-02-01T19:00:00.000Z",
+      "id": 14
+    },
+    {
+      "productName": "choper",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 560,
+      "comment": "new one",
+      "date": "2023-02-17T19:00:00.000Z",
+      "id": 15
+    },
+    {
+      "productName": "fan",
+      "category": "Vagetables",
+      "freshness": "Brand New",
+      "price": 435,
+      "comment": "Summer's Need.",
+      "date": "2023-02-24T19:00:00.000Z",
+      "id": 17
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "Fresh Apples.",
+      "date": "2023-02-13T19:00:00.000Z",
+      "id": 18
+    },
+    {
+      "productName": "Spinach",
+      "category": "Vagetables",
+      "freshness": "Second Hand",
+      "price": 3,
+      "comment": "Not Freshed.",
+      "date": "2023-02-09T19:00:00.000Z",
+      "id": 19
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
